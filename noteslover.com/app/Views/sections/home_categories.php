@@ -15,7 +15,7 @@
                                  class="rounded-circle img-fluid" style="width: 40px; height: 40px;">
                         </picture> -->
 
-                            <?= esc($category['name']) ?>
+                            <?= esc(strtolower($category['name'])) ?>
                             <!-- <small class="ms-auto text-muted">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                                     class="bi bi-arrow-right-circle" viewBox="0 0 16 16">

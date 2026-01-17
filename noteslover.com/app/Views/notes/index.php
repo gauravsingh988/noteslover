@@ -230,7 +230,7 @@
 }
 
 </style>
-<div class="container-fluid fruite py-90 px-20">
+<div class="container-fluid fruite my-3 px-20">
     <form method="get" id="filterForm">
         <div class="row g-4">
             <div class="col-lg-12 justify-content-center">
