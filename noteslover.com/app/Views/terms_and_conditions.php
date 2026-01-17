@@ -1,5 +1,5 @@
-<div class="container-fluid" style="margin-bottom: 6rem; margin-top: 10rem">
-    <div class="container-fluid py-5">
+<div class="container-fluid" >
+    <div class="container-fluid py-3">
         <div class="row">
             <!-- Table of Contents -->
             <div class="col-lg-3 mb-4">

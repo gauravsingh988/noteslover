@@ -59,7 +59,7 @@
     transition: background-color 0.3s ease;
 }
 </style>
-<div class="container-fluid py-90 px-20" id="fullDescriptionDiv">
+<div class="container-fluid py-3 px-20" id="fullDescriptionDiv">
     <div class="row">
         <div class="col-lg-12">
             <div class="d-flex mb-2">

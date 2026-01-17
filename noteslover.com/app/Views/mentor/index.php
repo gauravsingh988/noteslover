@@ -1,4 +1,4 @@
-<div class="container-fluid fruite py-50 px-20">
+<div class="container-fluid fruite py-3 px-20">
     <div class="col-lg-12 justify-content-center">
         <div class="row g-4">
             <?php if (!empty($mentors)): ?>
