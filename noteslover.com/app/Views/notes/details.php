@@ -198,7 +198,7 @@ code {
     </div>
 </div>
 
-<div class="container-fluid py-80 px-20">
+<div class="container-fluid py-30 px-20">
     <div class="row">
         <div class="col-lg-12">
             <?= view('sections/request_for_notes'); ?>

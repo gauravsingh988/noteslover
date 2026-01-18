@@ -131,7 +131,7 @@
                         <img src="<?= base_url('assets/img/logo-header.png') ?>" style="max-width:50px"
                             alt="Notes Lover">
                     </a>
-
+                    <a href="<?= base_url('login') ?>" class="mobile_login">Login</a>
                     <!-- Mobile Toggle -->
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent">
